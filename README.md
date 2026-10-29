@@ -35,14 +35,7 @@ The course is organized into the following chapters:
 1. Clone this repository to your local machine using your system's terminal or using a GUI tool like [SourceTree](https://www.sourcetreeapp.com/) or [GitHub Desktop](https://github.com/apps/desktop).
 1. See the README file in each directory for specific instructions related to the corresponding lesson.
 
-## Instructor
 
-Michael Jenkins, Lead Software Engineer
-
-Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/michael-jenkins).
-
-[lil-course-url]: https://www.linkedin.com/learning/learning-github-actions-event-driven-automation-for-your-codebase
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQGTv_1VRHyvqg/learning-public-crop_675_1200/B4EZk1xjpcIoAY-/0/1757543808319?e=2147483647&v=beta&t=Am-4hkmbAW7kSZnKJ1HyKD720eiJwg1M_o2rUP4moMo
 
 <!-- FooterStart -->
 ---
